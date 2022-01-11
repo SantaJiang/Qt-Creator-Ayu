@@ -51,7 +51,7 @@ DSplaceholderTextColor=ffffffff
 DSplaceholderTextColorInteraction=ffababab
 
 DSiconColor=ffffffff
-DSiconColorHover=ff262626
+DSiconColorHover=ff131922
 DSiconColorInteraction=ff707070
 DSiconColorDisabled=ff707070
 DSiconColorSelected=ff2aafd3
@@ -135,7 +135,7 @@ DStabFocusButtonPress=ff2aafd3
 
 DSnavigatorBranch=ff7c7b7b
 DSnavigatorBranchIndicator=ff7c7b7b
-DSnavigatorItemBackground=ff262626
+DSnavigatorItemBackground=ff131922
 DSnavigatorItemBackgroundHover=ff666666
 DSnavigatorItemBackgroundSelected=ff1f1f1f
 DSnavigatorText=ffffffff
@@ -388,7 +388,7 @@ QmlDesigner_TabDark=ff111111
 
 ;active tab backgrounds and non selected tab text.
 QmlDesigner_TabLight=text
-;QmlDesigner_TabLight=ff262626
+;QmlDesigner_TabLight=ff131922
 
 ;extra_new_colors
 
@@ -405,7 +405,7 @@ QmlDesigner_ScrollBarHandleColor=ff595b5c
 
 ;outline colors on the combo box, zoom slider, dialog outlines, on loading project the whole screen flashes this color
 ;PaletteWindow=normalBackground
-PaletteWindow=ff262626
+PaletteWindow=ff131922
 
 
 
