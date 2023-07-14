@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="1.0" name="Ayu Dark">
+<style-scheme version="1.0" name="Ayu Dark (复制)">
   <style name="Text" foreground="#c8c8c8" background="#242936"/>
   <style name="Link" foreground="#6c71c4"/>
   <style name="Selection" foreground="#e6e6e6" background="#274364"/>
   <style name="LineNumber" foreground="#586e75" background="#242936"/>
-  <style name="SearchResult" background="#3d3750"/>
+  <style name="SearchResult" background="#675b82"/>
   <style name="SearchResultAlt1" foreground="#000033" background="#b6ccff"/>
   <style name="SearchResultAlt2" foreground="#330000" background="#ffb6cc"/>
+  <style name="SearchResultContainingFunction"/>
   <style name="SearchScope" background="#268bd2"/>
   <style name="Parentheses" foreground="#dc322f" background="#586e75" bold="true"/>
   <style name="ParenthesesMismatch" foreground="#000000" background="#ff00ff"/>
   <style name="AutoComplete" foreground="#000080" background="#c0c0ff"/>
-  <style name="CurrentLine" background="#124252"/>
+  <style name="CurrentLine" background="#1a1f29"/>
   <style name="CurrentLineNumber" foreground="#bebebe" bold="true"/>
   <style name="Occurrences" background="#586e75"/>
   <style name="Occurrences.Unused" foreground="#719e07"/>
   <style name="Occurrences.Rename" background="#d33682"/>
-  <style name="Number" foreground="#ffb444"/>
+  <style name="Number" foreground="#c6a6db"/>
   <style name="String" foreground="#c2d93f"/>
   <style name="Type" foreground="#59b4c2"/>
+  <style name="Namespace" foreground="#59b4c2"/>
   <style name="Local" foreground="#ffee77"/>
-  <style name="Parameter"/>
+  <style name="Parameter" foreground="#c6a6db"/>
   <style name="Global"/>
   <style name="Field" foreground="#aaaaaa"/>
   <style name="Static" foreground="#ff7f26" italic="true"/>
@@ -32,8 +34,9 @@
   <style name="Overloaded Operator" foreground="#00677c"/>
   <style name="Punctuation"/>
   <style name="Preprocessor" foreground="#cb4b16"/>
+  <style name="Macro" foreground="#ffb444"/>
   <style name="Label" foreground="#268bd2" bold="true"/>
-  <style name="Comment" foreground="#b4b4b4"/>
+  <style name="Comment" foreground="#b4b4b4" italic="true"/>
   <style name="Doxygen.Comment" foreground="#b4b4b4"/>
   <style name="Doxygen.Tag" foreground="#586e75"/>
   <style name="VisualWhitespace" foreground="#073642"/>
@@ -72,5 +75,16 @@
   <style name="Declaration"/>
   <style name="FunctionDefinition"/>
   <style name="OutputArgument" italic="true"/>
+  <style name="StaticMember"/>
+  <style name="CocoCodeAdded"/>
+  <style name="CocoPartiallyCovered" foreground="#808000"/>
+  <style name="CocoNotCovered" foreground="#ff0000"/>
+  <style name="CocoFullyCovered" foreground="#00ff00"/>
+  <style name="CocoManuallyValidated" foreground="#0000ff"/>
+  <style name="CocoDeadCode" foreground="#ff00ff"/>
+  <style name="CocoExecutionCountTooLow" foreground="#ff0000"/>
+  <style name="CocoNotCoveredInfo" foreground="#ff0000"/>
+  <style name="CocoCoveredInfo" foreground="#00ff00"/>
+  <style name="CocoManuallyValidatedInfo" foreground="#0000ff"/>
   <style name="LastStyleSentinel"/>
 </style-scheme>
